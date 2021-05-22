@@ -2,8 +2,8 @@ django
 whitenoise
 gunicorn
 
-# dj-database-url
-# python-dotenv
+dj_database_url
+python-dotenv
 # psycopg2-binary
-# mysqlclient
+mysqlclient
 # (for Heroku to use DB)
