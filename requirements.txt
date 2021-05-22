@@ -4,6 +4,6 @@ gunicorn
 
 dj_database_url
 python-dotenv
-# psycopg2-binary
+psycopg2-binary
 mysqlclient
 # (for Heroku to use DB)
